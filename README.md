@@ -357,6 +357,7 @@
 - **shadcn/studio MCP** - Integrate shadcn/studio MCP Server into IDE for components.
 
 **Command-line**
+- **OpenMagic** - Open-source AI coding toolbar launched with `npx`; select a web UI element, review the source diff, and apply verified edits locally.
 - **Amazon Q Developer CLI** - CLI with command completion, translation, and chat.
 - **talk-codebase** - CLI chatbot with repository context and local LLM support.
 - **gptcomet** - CLI tool for generating commit messages and reviewing changes.
